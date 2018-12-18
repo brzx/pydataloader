@@ -1,0 +1,3 @@
+1. When use low resolution ratio, it will lack things, so please use high resolution ratio.
+2. (Resolved)if not quote in csv file, the source table field will occur a no this field error
+3. Please do not add space in any place, such as source file name, source file field, target field and template name, and so on.
